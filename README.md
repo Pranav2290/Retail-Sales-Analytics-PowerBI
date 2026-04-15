@@ -2,9 +2,7 @@
 ## 🔍 Overview
 
 This project analyzes retail sales data to uncover key drivers of profitability and loss using Power BI.
-
 Despite strong sales performance, businesses often struggle with hidden losses caused by discounting strategies and product-level inefficiencies.
-
 This dashboard provides a data-driven approach to identify these issues and support better decision-making.
 
 ## 🎯 Problem Statement
@@ -35,3 +33,4 @@ Developed key business metrics:
 - Loss Orders & Loss %
 - Discount Impact Metrics
 
+## 📊 Dashboard Pages
